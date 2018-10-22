@@ -1,4 +1,4 @@
-<table>
+<table
     <tr>
         <!-- Do not translate this table -->
         <td> Read these guidelines in </td>
